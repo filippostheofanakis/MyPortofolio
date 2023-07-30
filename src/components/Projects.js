@@ -34,7 +34,7 @@ export const Projects =  () => {
             title: "Find all the E-Mails",
             description: "Try the E-Mail-finder",
             imgUrl: emailFinder,
-            link: "",
+            link: "https://github.com/felipbttk/Qr_Code_Generator_Reader",
           },
           // {
           //   title: "Business Startup",
