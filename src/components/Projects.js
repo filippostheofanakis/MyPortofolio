@@ -22,13 +22,13 @@ export const Projects =  () => {
             title: "Video Downloader",
             description: "Want to see a video later?",
             imgUrl: downloader,
-            link:  <a href = "https://github.com/felipbttk/Youtube_video_downlader" target="blank">Click me</a>
+            link:  <a href = "https://github.com/felipbttk/Youtube_video_downlader" target="blank">Click me.</a>
           },
           {
             title: "Create your QR code",
             description: "Share it with your friends",
             imgUrl: qr,
-            link:  <a href = "https://felipbttk.github.io/Qr_Code_Generator_Reader/" target="blank">Click me</a>,
+            link:  <a href = "https://felipbttk.github.io/Qr_Code_Generator_Reader/" target="blank">Click me.</a>,
           },
           {
             title: "Find all the E-Mails",
